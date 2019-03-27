@@ -16,6 +16,7 @@
         
           
 </head>
+//ceci est ma vue//
 <body>
     <?php 
     foreach($user as $leUser)
